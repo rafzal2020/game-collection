@@ -21,7 +21,7 @@ A modern web application for tracking, organizing, and managing your physical ga
 - **Database**: Supabase (PostgreSQL)
 - **Authentication**: Supabase Auth
 - **Package Manager**: pnpm
-- **Deployment**: Vercel (recommended)
+- **Deployment**: Vercel
 
 ## Prerequisites
 
