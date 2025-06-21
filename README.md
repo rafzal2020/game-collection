@@ -3,6 +3,8 @@
 A modern web application for tracking, organizing, and managing your physical game collection. Built with Next.js, TypeScript, Tailwind CSS, and Supabase.
 
 You can find the live web app here 👇
+
+
 https://mygamecollection.vercel.app/
 
 ## Features
