@@ -2,6 +2,9 @@
 
 A modern web application for tracking, organizing, and managing your physical game collection. Built with Next.js, TypeScript, Tailwind CSS, and Supabase.
 
+You can find the live web app here 👇
+https://mygamecollection.vercel.app/
+
 ## Features
 
 - 🎮 **Game Collection Management**: Add, edit, and delete games from your collection
@@ -21,8 +24,7 @@ A modern web application for tracking, organizing, and managing your physical ga
 - **Database**: Supabase (PostgreSQL)
 - **Authentication**: Supabase Auth
 - **Package Manager**: pnpm
-- **Deployment**: Vercel
-
+- 
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
